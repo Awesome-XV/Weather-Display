@@ -13,3 +13,16 @@ This is a project that uses an ESP32 to check the weather at a location that you
 
 # Routing Diagram
 <img width="1158" height="745" alt="image" src="https://github.com/user-attachments/assets/ec5fcce8-9de2-48ed-9790-67252684d118" />
+
+# BOM Table
+| Name | Purpose | Quantity | Total Cost (USD) | Distributor | Link |
+|------|---------|:--------:|-----------------:|-------------|------|
+| M3 Screw | To screw the LCD | 1 | $1.39 | Ali Express | [Buy](https://www.aliexpress.us/item/3256806739148656.html) |
+| C3 Mini V2.1.0 | Its the brains of this project | 1 | $5.66 | Ali Express | [Buy](https://www.aliexpress.us/item/3256804553736450.html) |
+| Case | 3D Printed Case | 1 | $5.70 | Printing-Legion | N/A |
+| MX Switches | Buttons | 3 | $3.75 | Digikey | [Buy](https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-C1NW/280855) |
+| M3 Heatset | M3 Threaded Inserts | 1 | $1.07 | Ali Express | [Buy](https://www.aliexpress.us/item/3256806286648221.html) |
+| ST7735 | 1.8 Inch TFT LCD Screen | 1 | $9.95 | Amazon | [Buy](https://www.amazon.com/JESSINIE-Display-Arduino-128x160-Interface/dp/B0D31BGJWF) |
+| Shipping | Move these parts | 1 | $0.00 | Ali Express, Digikey, Amazon | N/A |
+| Tax | I have to pay | 1 | $1.14 | | N/A |
+| **Total** | | | *$28.66* | | |
