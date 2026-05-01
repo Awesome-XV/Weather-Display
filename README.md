@@ -12,7 +12,7 @@ This is a project that uses an ESP32 to check the weather at a location that you
 <img width="1134" height="716" alt="Screenshot 2026-04-21 162829" src="https://github.com/user-attachments/assets/6e2e54c2-a61f-4b39-80dc-8899cfd47672" />
 
 # Routing Diagram
-<img width="1158" height="745" alt="image" src="https://github.com/user-attachments/assets/ec5fcce8-9de2-48ed-9790-67252684d118" />
+<img width="1069" height="763" alt="image" src="https://github.com/user-attachments/assets/2a2e0f72-8ced-4fee-8f97-b4279dae4fa5" />
 
 # BOM Table
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor | Link |
