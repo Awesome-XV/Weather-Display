@@ -22,9 +22,9 @@ This is a project that uses an ESP32 to check the weather at a location that you
 | M3 Screw | To screw the LCD | 1 | $1.39 | Ali Express | [Buy](https://www.aliexpress.us/item/3256806739148656.html) |
 | C3 Mini V2.1.0 | Its the brains of this project | 1 | $5.66 | Ali Express | [Buy](https://www.aliexpress.us/item/3256804553736450.html) |
 | Case | 3D Printed Case | 1 | $1.50 | N/A | N/A |
-| MX Switches | Buttons | 1 | $4.05 | Aliexpress | [Buy](https://www.aliexpress.us/item/3256810546698766.html) |
+| MX Switches | Buttons | 1 | $2.86 | Aliexpress | [Buy](https://www.aliexpress.us/item/3256806811817309.html) |
 | M3 Threaded Inserts | To put the screws in | 1 | $3.19 | Ali Express | [Buy](https://www.aliexpress.us/item/3256805885174058.html) |
 | ST7735 | 1.8 Inch TFT LCD Screen | 1 | $8.99 | Amazon | [Buy](https://www.amazon.com/DWEII-Display-Adapter-Inerface-Cmmpatible/dp/B0CTLPQBRW/) |
 | Shipping | Move these parts | 1 | $0.00 | Aliexpress, Amazon | N/A |
-| Tax | I have to pay | 1 | $2.46 | | N/A |
-| **Total** | | | *$33.82* | | |
+| Tax (8.25% TX) | I have to pay | 1 | $2.37 | | N/A |
+| **Total** | | | *$32.54* | | |
